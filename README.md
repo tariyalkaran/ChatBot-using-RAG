@@ -28,16 +28,19 @@ Seamless Navigation: The system streamlines information retrieval, reducing comp
 **Getting Started**
 To use the PDF Intelligence System:
 
-Clone the repository to your local machine.
-
+1. Clone the repository to your local machine.
+```bash
 git clone https://github.com/tariyalkaran/ChatBot-using-RAG.git
-Install dependencies.
 
+2. Install dependencies.
+```bash
 pip install -r requirements.txt
-Run the application.
 
+3. Run the application.
+```bash
 streamlit run app.py
-Open your browser and navigate to http://localhost:8000 to access the user interface.
+
+4. Open your browser and navigate to http://localhost:8000 to access the user interface.
 
 
 
